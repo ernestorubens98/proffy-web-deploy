@@ -25,6 +25,7 @@ declare module 'styled-components' {
       colorButtonText: string;
       colorBoxBase: string;
       colorBoxFooter: string;
+      colorTextSelect: string;
     };
   }
 }

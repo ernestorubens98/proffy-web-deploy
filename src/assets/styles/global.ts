@@ -31,6 +31,7 @@ export default createGlobalStyle`
 
     --color-box-base: ${(props) => props.theme.colors.colorBoxBase};
     --color-box-footer: ${(props) => props.theme.colors.colorBoxFooter};
+    --color-text-select: ${(props) => props.theme.colors.colorTextSelect};
   }
 
   * {

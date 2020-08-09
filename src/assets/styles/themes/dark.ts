@@ -22,5 +22,6 @@ export default {
     colorButtonText: '#F3F3F3',
     colorBoxBase: '#000',
     colorBoxFooter: '#1D1D1D',
+    colorTextSelect: '#FFFFFF',
   },
 };
